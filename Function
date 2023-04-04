@@ -1,0 +1,4 @@
+def fun(name="Aadi"):
+    print("hello, "+name)
+string=input("Enter your name: ")
+fun(string)
